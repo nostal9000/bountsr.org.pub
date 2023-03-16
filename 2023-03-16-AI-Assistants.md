@@ -8,7 +8,7 @@ pledges:
   - [0.01, nostal9000]
   - [0.01, nostal9000]
 currency: BTC
-contact: https://nvk.org/nostr
+contact: nostal9000
 status: New
 ---
 
