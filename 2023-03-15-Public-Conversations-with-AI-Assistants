@@ -8,7 +8,7 @@ pledges:
   - [0.021, nostal9000]
   - [0.021, nostal9000]
 currency: BTC
-contact: nostal9000
+contact: https://snort.social/p/npub1hal9a0s008tcrhe7n7jsewt3rgpvhm7qtjpckgsuegurdpkq8kgscy2xk9
 status: New
 ---
 
